@@ -1,9 +1,5 @@
-# gi-tract-image-segmentation-using-deep-learning
-
-Note: Repo is not maintained and most of the code is private as experiments are still underway.
-
+<b>Note: Most of the code is private and experiments are still underway.</b>
 <br>
-
 <h3 style="font-family: Verdana; font-size: 20px; font-style: normal; font-weight: normal; text-decoration: none; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">PROJECT BASIC INFORMATION</h3>
 
 ---
